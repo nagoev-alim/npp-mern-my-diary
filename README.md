@@ -2,8 +2,10 @@
 <p align="center">📋 In this app you can create/read/update/delete diary records.</p>
 
 -----
+#### 📦 Previews Gif
+![App Screenshot](preview.gif)
 
-#### 📦 Previews
+#### 📦 Previews Images
 ![App Screenshot](client/public/assets/images/preview/preview-01.png)
 ![App Screenshot](client/public/assets/images/preview/preview-02.png)
 ![App Screenshot](client/public/assets/images/preview/preview-03.png)
